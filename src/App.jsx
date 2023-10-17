@@ -1,17 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-
 // every tag must be closed 
-
-
-
-
 function App() {
   return (
-
-    <img src="jazib.jp."  width="500" height="600"/>
-
- 
+    <>
+      <img src="jazib.jpg"  width="500" height="600" alt='myImage'/>
+      <h1>My Image</h1>
+    </>
   );
 }
 
